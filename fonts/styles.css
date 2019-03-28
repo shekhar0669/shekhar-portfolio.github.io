@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'HaveHeartSwash';
+  src: url(../fonts/'HaveHeartSwash.eot?#iefix') format('embedded-opentype'),  url(../fonts/'HaveHeartSwash.otf')  format('opentype'),
+	     url(../fonts/'HaveHeartSwash.woff') format('woff'), url(../fonts/'HaveHeartSwash.ttf')  format('truetype'), url(../fonts/'HaveHeartSwash.svg#HaveHeartSwash') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
